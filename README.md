@@ -1,2 +1,2 @@
 # fibonacci-sequence
-fibonacci sequence in cp
+fibonacci sequence in cpp
